@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
-import Navbar from './components/estaticos/navbar/Navbar';
-import Footer from './components/estaticos/footer/Footer';
+import Navbar from './componentes/estaticos/navbar/Navbar';
+import Footer from './componentes/estaticos/footer/Footer';
 import Home from './paginas/home/Home';
 import Login from './paginas/login/Login';
 
